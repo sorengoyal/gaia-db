@@ -1,0 +1,1 @@
+CREATE USER sorengoyal_sql IDENTIFIED WITH AWSAuthenticationPlugin AS 'RDS'; 
